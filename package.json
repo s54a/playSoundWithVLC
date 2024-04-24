@@ -1,12 +1,32 @@
 {
-  "name": "playsoundbyvlc",
+  "name": "playsoundwithvlc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Play & Stop Sound in Node JS Applications using VLC",
+  "type": "module",
   "main": "index.js",
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s54a/playSoundWithVLC.git"
+  },
+  "keywords": [
+    "Play Sound",
+    "Stop Sound",
+    "Play & Stop Sound",
+    "Play & Stop Sound With VLC Media Player in Node JS",
+    "Play & Stop Sound By VLC Media Player in Node JS",
+    "Play & Stop Sound Using VLC Media Player in Node JS"
+  ],
+  "author": "Sooraj Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s54a/playSoundWithVLC/issues"
+  },
+  "homepage": "https://github.com/s54a/playSoundWithVLC#readme"
 }
